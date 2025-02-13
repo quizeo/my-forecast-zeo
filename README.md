@@ -1,7 +1,7 @@
 # Forecast-zeo
 Project Forecast is a Node.js-based app that shows real-time weather, including location, temperature, and forecast details, using OpenWeatherMap API with EJS, HTML, CSS, and JavaScript.
  
-<strong style="font-weight:bold; display:block; width:100%;">https://my-forecast-zeo.onrender.com</strong>
+<strong style="font-weight:bold; display:block; width:100%;">https://my-forecast-zeo.onrender.com/</strong>
 
 
 <div style=" disply:flex; justify-content: center; margin: 0 auto">
